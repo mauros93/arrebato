@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "salchipapas",
+      "name": "Salchipapas",
+      "products": [
+        {
+          "id": "combinada",
+          "name": "Combinada",
+          "description": "2 carnes, queso, sour cream, salchicha, tocineta y papas.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 29000 },
+            { "label": "Doble", "value": 55000 }
+          ]
+        },
+        {
+          "id": "antioquena",
+          "name": "Antioqueña",
+          "description": "Chorizo, arepa frita, maduro, chicharrón, tocineta, queso, papas, huevo.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 29000 },
+            { "label": "Doble", "value": 55000 }
+          ]
+        },
+        {
+          "id": "desgranada",
+          "name": "Desgranada",
+          "description": "Pollo, maicitos, tocineta, queso, salchicha, papas, huevo.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 25000 },
+            { "label": "Doble", "value": 47000 }
+          ]
+        },
+        {
+          "id": "ranchera",
+          "name": "Ranchera",
+          "description": "Salchicha ranchera, huevo, queso, tocineta, papas.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 25000 },
+            { "label": "Doble", "value": 43000 }
+          ]
+        },
+        {
+          "id": "costena",
+          "name": "Costeña",
+          "description": "Papas, ripio, lechuga, cerdo, pollo, salchicha suiza, salchicha de pollo, queso costeño, tocineta, butifarra.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 29000 },
+            { "label": "Doble", "value": 55000 }
+          ]
+        },
+        {
+          "id": "mexicana",
+          "name": "Mexicana",
+          "description": "Res desmechada, guacamole, pico de gallo, sour cream, queso, papas.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 27000 },
+            { "label": "Doble", "value": 51000 }
+          ]
+        },
+        {
+          "id": "desmechada-pork",
+          "name": "Desmechada Pork",
+          "description": "Pulled pork, queso, salchicha, huevo, tocineta, papas.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 25000 },
+            { "label": "Doble", "value": 47000 }
+          ]
+        },
+        {
+          "id": "clasica",
+          "name": "Clásica",
+          "description": "Papas, salchicha, tocineta, huevo, queso.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 18000 },
+            { "label": "Doble", "value": 37000 }
+          ]
+        },
+        {
+          "id": "picada",
+          "name": "Picada",
+          "description": "Res, cerdo, pollo, chicharrón, chorizo, papas, arepa, patacón, guacamole, hogao.",
+          "image": null,
+          "prices": [
+            { "label": "Personal", "value": 33000 },
+            { "label": "Doble", "value": 63000 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patacones",
+      "name": "Patacones",
+      "products": [
+        {
+          "id": "patacon-res",
+          "name": "Patacón Res",
+          "description": "Res desmechada, queso crema, guacamole, maicitos, queso, huevo.",
+          "image": null,
+          "prices": [{ "label": null, "value": 26000 }]
+        },
+        {
+          "id": "patacon-mixto",
+          "name": "Patacón mixto",
+          "description": "Res y pollo desmechado, queso crema, guacamole, maicitos, queso, huevo.",
+          "image": null,
+          "prices": [{ "label": null, "value": 26000 }]
+        }
+      ]
+    },
+    {
+      "id": "perro-especial",
+      "name": "Perro especial",
+      "products": [
+        {
+          "id": "perro-especial",
+          "name": "Perro especial",
+          "description": "Pan, ensalada, salchicha americana, ripio, queso, tocineta, huevo de codorniz, cebolla caramelizada (opcional).",
+          "image": null,
+          "prices": [
+            { "label": "Individual", "value": 18000 },
+            { "label": "Combo", "value": 24000 }
+          ]
+        }
+      ]
+    }
+  ]
+}
