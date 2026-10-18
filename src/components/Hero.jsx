@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="hero__inner container">
         <img
           className="hero__badge"
-          src="/logos/logo-badge.jpeg"
+          src="/logos/logo-badge.png"
           alt="Logotipo de ARREBATO: una papa con sombrero y gafas de sol"
           width="722"
           height="675"

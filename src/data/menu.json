@@ -55,6 +55,16 @@
           ]
         },
         {
+          "id": "costena-suprema",
+          "name": "Costeña Suprema 🌴",
+          "description": "Papas, lechuga, cerdo, pollo, salchicha, cebolla blanca (opcional), huevo cocinado, ripio, queso costeño, queso mozzarella y maicitos.",
+          "image": "/comidas/suprema.jpeg",
+          "prices": [
+            { "label": "Personal", "value": 32000 },
+            { "label": "Doble", "value": 60000 }
+          ]
+        },
+        {
           "id": "mexicana",
           "name": "Mexicana",
           "description": "Res desmechada, guacamole, pico de gallo, sour cream, queso, papas.",
