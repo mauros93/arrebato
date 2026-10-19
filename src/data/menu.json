@@ -70,7 +70,7 @@
           "id": "mexicana",
           "name": "Mexicana",
           "description": "Res desmechada, guacamole, pico de gallo, sour cream, queso, papas.",
-          "image": null,
+          "image": "/comidas/mexicana.png",
           "prices": [
             { "label": "Personal", "value": 27000 },
             { "label": "Doble", "value": 51000 }
