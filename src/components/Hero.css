@@ -13,7 +13,6 @@
 
 .hero__badge {
   width: clamp(168px, 46vw, 232px);
-  border-radius: 50%;
   margin-bottom: 26px;
 }
 
