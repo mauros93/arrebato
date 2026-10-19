@@ -4,11 +4,23 @@
       "id": "salchipapas",
       "name": "Salchipapas",
       "products": [
+        
+        {
+          "id": "costena-suprema",
+          "name": "Costeña Suprema 🌴",
+          "description": "Papas, lechuga, cerdo, pollo, salchicha, cebolla blanca (opcional), huevo cocinado, ripio, queso costeño, queso mozzarella y maicitos.",
+          "image": "/comidas/suprema.png",
+          "prices": [
+            { "label": "Mini Antojo", "value": 18000 },
+            { "label": "Personal", "value": 32000 },
+            { "label": "Doble", "value": 60000 }
+          ]
+        },
         {
           "id": "combinada",
           "name": "Combinada",
           "description": "2 carnes, queso, sour cream, salchicha, tocineta y papas.",
-          "image": null,
+          "image": "/comidas/combinada.png",
           "prices": [
             { "label": "Personal", "value": 29000 },
             { "label": "Doble", "value": 55000 }
@@ -28,7 +40,7 @@
           "id": "desgranada",
           "name": "Desgranada",
           "description": "Pollo, maicitos, tocineta, queso, salchicha, papas, huevo.",
-          "image": null,
+          "image": "/comidas/desgranada.png",
           "prices": [
             { "label": "Personal", "value": 25000 },
             { "label": "Doble", "value": 47000 }
@@ -48,20 +60,10 @@
           "id": "costena",
           "name": "Costeña",
           "description": "Papas, ripio, lechuga, cerdo, pollo, salchicha suiza, salchicha de pollo, queso costeño, tocineta, butifarra.",
-          "image": null,
+          "image": "/comidas/costena.png",
           "prices": [
             { "label": "Personal", "value": 29000 },
             { "label": "Doble", "value": 55000 }
-          ]
-        },
-        {
-          "id": "costena-suprema",
-          "name": "Costeña Suprema 🌴",
-          "description": "Papas, lechuga, cerdo, pollo, salchicha, cebolla blanca (opcional), huevo cocinado, ripio, queso costeño, queso mozzarella y maicitos.",
-          "image": "/comidas/suprema.jpeg",
-          "prices": [
-            { "label": "Personal", "value": 32000 },
-            { "label": "Doble", "value": 60000 }
           ]
         },
         {
